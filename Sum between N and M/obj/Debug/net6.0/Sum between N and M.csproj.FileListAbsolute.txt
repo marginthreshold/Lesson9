@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\bin\Debug\net6.0\Sum between N and M.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\bin\Debug\net6.0\Sum between N and M.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\bin\Debug\net6.0\Sum between N and M.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\bin\Debug\net6.0\Sum between N and M.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\bin\Debug\net6.0\Sum between N and M.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\refint\Sum between N and M.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\Sum between N and M.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Sum between N and M\obj\Debug\net6.0\ref\Sum between N and M.dll
