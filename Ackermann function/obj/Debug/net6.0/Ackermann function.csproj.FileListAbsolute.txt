@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\bin\Debug\net6.0\Ackermann function.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\bin\Debug\net6.0\Ackermann function.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\bin\Debug\net6.0\Ackermann function.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\bin\Debug\net6.0\Ackermann function.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\bin\Debug\net6.0\Ackermann function.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\refint\Ackermann function.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\Ackermann function.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson9\Ackermann function\obj\Debug\net6.0\ref\Ackermann function.dll
